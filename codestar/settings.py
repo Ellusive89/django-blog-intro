@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8003-ellusive89-django-blog-i-a9xee8c2cc.us2.codeanyapp.com', 'localhost']
+    '8000-ellusive89-django-blog-i-a9xee8c2cc.us2.codeanyapp.com', 'localhost']
 
 
 # Application definition
